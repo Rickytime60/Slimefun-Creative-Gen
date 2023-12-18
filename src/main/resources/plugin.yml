@@ -1,17 +1,17 @@
 ## CHANGE this to the name of your plugin.
-name: SlimefunAddon
+name: CreativeEnergyGen
 
 ## CHANGE this to your username.
-author: CHANGEME
+author: rickytime60
 
 ## CHANGE this to a meaninful but short description of your plugin.
-description: A generic Slimefun4-Addon
+description: A Slimefun4-Addon that adds an energy generator that makes 9 quintillion energy per second and consumes nothing (meant to be used for plugin testing)
 
 ## CHANGE this to the path of the class that extends JavaPlugin.
-main: me.CHANGEME.slimefunaddon.ExampleAddon
+main: me.rickytime60.creativeenergygen.CreativeEnergyGen
 
 ## You can change this to link to your website or repository. You can also remove this line if you want to.
-website: https://github.com/Slimefun/Addon-Template
+website: https://github.com/Rickytime60/Slimefun-Creative-Gen
 
 ## This value is automatically replaced by the version specified in your pom.xml file.
 ## Do not change this.

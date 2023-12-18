@@ -1,4 +1,4 @@
-package me.CHANGEME.slimefunaddon;
+package me.rickytime60.creativeenergygen;
 
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
